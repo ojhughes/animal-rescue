@@ -6,6 +6,7 @@ Features we demonstrate with this sample app:
 - Gateway routes configured through service bindings
 - Simplified route configuration
 - (WIP) SSO login and access control on behalf of the routed services
+- Rescuing animals in need
 
 ### Deploy to CF
 
